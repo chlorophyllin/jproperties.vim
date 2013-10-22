@@ -1,0 +1,4 @@
+jproperties.vim
+===============
+
+Improvements to the jproperties Vim syntax highlighting.
